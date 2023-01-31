@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="640" height="640">
+    <defs>
+        <path d="M231.6 340.94L106.61 124.44L356.61 124.44L606.61 124.44L481.62 340.94L356.61 557.44L231.6 340.94Z" id="anwCz59pL"></path>
+        <path d="M117.98 439.94L49.87 322.44L186.11 322.44L322.34 322.44L254.23 439.94L186.11 557.44L117.98 439.94Z" id="a1MX8wlEY1"></path>
+        <path d="M246.89 365.18L221.74 321.94L272.04 321.94L322.34 321.94L297.19 365.18L272.04 408.41L246.89 365.18Z" id="d1DWN7TV7R"></path>
+    </defs>
+    <g>
+        <use xlink:href="#anwCz59pL" fill="none" stroke="#666" stroke-width="22" stroke-opacity="1"></use>
+        <use xlink:href="#a1MX8wlEY1" fill="none" stroke="#666" stroke-width="22" stroke-opacity="1"></use>
+        <use xlink:href="#d1DWN7TV7R" opacity="1" fill="#666" fill-opacity="1"></use>
+    </g>
+</svg>
